@@ -1,3 +1,9 @@
 # autodoctor_ecocardiography
 
-Monday Proposal presentation pdf: first proposal for the project work.
+Inside the presentation folder, you can find:
+- the project proposal
+- the milestone report for the intermiedate results
+- the final presentation
+
+In the main page:
+- the final paper
